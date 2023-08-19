@@ -1,6 +1,6 @@
-# Filmpire
+# CinemAura🎬 
 
-![App Screenshot](src/assets/images/Filmpire.jpg)
+![App Screenshot](src/assets/images/CinemAura.png)
 
 Filmpire combines the desire to unleash powerful creativity with the industry's most advanced JavaScript tools including React.js, Redux, Material UI, Alan AI, and more.
 
